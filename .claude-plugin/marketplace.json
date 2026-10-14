@@ -1,0 +1,17 @@
+{
+  "name": "pstack-local",
+  "metadata": {
+    "description": "Local marketplace for poteto's pstack, vendored from cursor/plugins."
+  },
+  "owner": {
+    "name": "BetoFrega"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./plugins/pstack",
+      "version": "0.15.24",
+      "description": "poteto's pstack (Lauren Tan) for Claude Code, vendored from cursor/plugins: poteto-mode, principles, and rigorous agent workflows."
+    }
+  ]
+}
