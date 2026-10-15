@@ -9,7 +9,7 @@ claude plugin marketplace add BetoFrega/claude-pstack
 ```
 
 ```bash
-claude plugin install pstack@pstack-local
+claude plugin install pstack@claude-pstack
 ```
 
 Then `/pstack:setup-pstack` once, and `/pstack:poteto-mode <task>` for real work. `/pstack:poteto-help` if lost.
@@ -27,5 +27,5 @@ scripts/sync-upstream.sh
 ```
 
 ```bash
-claude plugin marketplace update pstack-local && claude plugin update pstack@pstack-local
+claude plugin marketplace update claude-pstack && claude plugin update pstack@claude-pstack
 ```

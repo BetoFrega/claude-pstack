@@ -1,7 +1,7 @@
 {
-  "name": "pstack-local",
+  "name": "claude-pstack",
   "metadata": {
-    "description": "Local marketplace for poteto's pstack, vendored from cursor/plugins."
+    "description": "Claude Code marketplace for poteto's pstack, vendored from cursor/plugins."
   },
   "owner": {
     "name": "BetoFrega"
